@@ -1,0 +1,7 @@
+README.md
+setup.py
+Prueba_Release/__init__.py
+Valentin_s_Box.egg-info/PKG-INFO
+Valentin_s_Box.egg-info/SOURCES.txt
+Valentin_s_Box.egg-info/dependency_links.txt
+Valentin_s_Box.egg-info/top_level.txt

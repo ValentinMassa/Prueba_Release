@@ -1,0 +1,11 @@
+Metadata-Version: 2.2
+Name: Valentin-s-Box
+Version: 0.1.0
+Summary: Un paquete pip simple de saludo
+Home-page: https://github.com/ValentinMassa/Prueba_Release
+Author: Valentin Massa
+Author-email: valeenmassa2002@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary
